@@ -1,5 +1,7 @@
 # AdonisJS Project Setup 🚀
 
+NOTE: ---- Im Getting Confusion with JWT and Hash Password Packages to install, so the reason i have implemented other crud operations, and im trying to acheive that functionality as well, if possible you can guide on that i'll definetely mould my self over the time. And i have done complete functionality using NODE JS and EXPRESS JS you can consider that also.
+
 ### Install & Setup  
 ```sh
 git clone <repo-url> && cd <project-folder>  
